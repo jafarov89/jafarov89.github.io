@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="designpoint.ml" resolutions="1x" timestamp="1536956445662">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="designpoint.ml" resolutions="1x" timestamp="1536957269959">
   <folder name="css">
     <file name="site_global.css" crc="314732329"/>
-    <file name="master_______-a.css" crc="4258727043" ref="index:обо-мне:резюме"/>
-    <file name="index.css" crc="11179452" ref="index"/>
-    <file name="___-___.css" crc="296997239" ref="обо-мне"/>
-    <file name="______.css" crc="3882177901" ref="резюме"/>
+    <file name="master_______-a.css" crc="4199402826" ref="index:обо-мне:резюме"/>
+    <file name="index.css" crc="447144678" ref="index"/>
+    <file name="___-___.css" crc="512943564" ref="обо-мне"/>
+    <file name="______.css" crc="134690039" ref="резюме"/>
   </folder>
   <folder name="fonts">
     <file name="dinpro-light.woff" crc="4280101890"/>
@@ -32,8 +32,11 @@
     <file name="vizitka2-crop-u431.jpg" crc="3847732263" ref="index"/>
     <file name="u412.png" crc="4161206105" ref="index:обо-мне:резюме"/>
     <file name="my photo2-crop-u2116.jpg" crc="3815708196" ref="резюме"/>
+    <file name="главная-favicon.ico" crc="251539713" ref="index"/>
+    <file name="обо-мне-favicon.ico" crc="251539713" ref="обо-мне"/>
+    <file name="резюме-favicon.ico" crc="251539713" ref="резюме"/>
   </folder>
-  <file name="index.html" crc="3793879156" seo="true" mt="1536956405051" redirect="true"/>
-  <file name="обо-мне.html" crc="4206919676" seo="true" mt="1536956426357" redirect="true"/>
-  <file name="резюме.html" crc="4228944452" seo="true" mt="1536956401404" redirect="true"/>
+  <file name="index.html" crc="399863899" seo="true" mt="1536957224285" redirect="true"/>
+  <file name="обо-мне.html" crc="225189149" seo="true" mt="1536957235983" redirect="true"/>
+  <file name="резюме.html" crc="3879011533" seo="true" mt="1536957247106" redirect="true"/>
 </manifest>
