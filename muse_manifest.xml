@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="designpoint.ml" resolutions="1x" timestamp="1537902573011">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="designpoint.ml" resolutions="1x" timestamp="1537903226926">
   <folder name="css">
-    <file name="site_global.css" crc="443350757"/>
-    <file name="master_______-a.css" crc="3843604241" ref="обо-мне:резюме:index"/>
-    <file name="___-___.css" crc="3899352193" ref="обо-мне"/>
-    <file name="______.css" crc="4011302906" ref="резюме"/>
-    <file name="index.css" crc="4037698699" ref="index"/>
+    <file name="site_global.css" crc="512491856"/>
+    <file name="master_______-a.css" crc="4199402826" ref="обо-мне:резюме:index"/>
+    <file name="___-___.css" crc="155648122" ref="обо-мне"/>
+    <file name="______.css" crc="150036426" ref="резюме"/>
+    <file name="index.css" crc="4052747399" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="dinpro-light.woff" crc="4280101890"/>
@@ -181,7 +181,7 @@
     <file name="резюме-favicon.ico" crc="251539713" ref="резюме"/>
     <file name="my photo2-crop-u2116.jpg" crc="3815708196" ref="резюме"/>
   </folder>
-  <file name="index.html" crc="276994531" seo="true" mt="1537900358660" redirect="true"/>
-  <file name="обо-мне.html" crc="4204501433" seo="true" mt="1537900794530" redirect="true"/>
-  <file name="резюме.html" crc="453845966" seo="true" mt="1537902214107" redirect="true"/>
+  <file name="index.html" crc="3890462061" seo="true" mt="1537903181904" redirect="true"/>
+  <file name="обо-мне.html" crc="514529184" seo="true" mt="1537903181904" redirect="true"/>
+  <file name="резюме.html" crc="380991730" seo="true" mt="1537903181904" redirect="true"/>
 </manifest>
