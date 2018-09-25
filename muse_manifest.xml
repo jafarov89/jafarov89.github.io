@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="designpoint.ml" resolutions="1x" timestamp="1537901043735">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="designpoint.ml" resolutions="1x" timestamp="1537902573011">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_______-a.css" crc="3843604241" ref="обо-мне:резюме:index"/>
@@ -183,5 +183,5 @@
   </folder>
   <file name="index.html" crc="276994531" seo="true" mt="1537900358660" redirect="true"/>
   <file name="обо-мне.html" crc="4204501433" seo="true" mt="1537900794530" redirect="true"/>
-  <file name="резюме.html" crc="507170644" seo="true" mt="1537900734874" redirect="true"/>
+  <file name="резюме.html" crc="453845966" seo="true" mt="1537902214107" redirect="true"/>
 </manifest>
