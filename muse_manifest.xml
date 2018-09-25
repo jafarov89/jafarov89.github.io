@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="designpoint.ml" resolutions="1x" timestamp="1536957269959">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="designpoint.ml" resolutions="1x" timestamp="1537901043735">
   <folder name="css">
-    <file name="site_global.css" crc="314732329"/>
-    <file name="master_______-a.css" crc="4199402826" ref="index:обо-мне:резюме"/>
-    <file name="index.css" crc="447144678" ref="index"/>
-    <file name="___-___.css" crc="512943564" ref="обо-мне"/>
-    <file name="______.css" crc="134690039" ref="резюме"/>
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_______-a.css" crc="3843604241" ref="обо-мне:резюме:index"/>
+    <file name="___-___.css" crc="3899352193" ref="обо-мне"/>
+    <file name="______.css" crc="4011302906" ref="резюме"/>
+    <file name="index.css" crc="4037698699" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="dinpro-light.woff" crc="4280101890"/>
@@ -18,25 +18,170 @@
     <file name="whatinput.js" crc="86476730" ref="index:обо-мне:резюме"/>
     <file name="museconfig.js" crc="168988563" ref="index:обо-мне:резюме"/>
     <file name="jquery.musemenu.js" crc="146495465" ref="index:обо-мне:резюме"/>
+    <file name="webpro.js" crc="3848665353" ref="index:обо-мне"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
+    <file name="touchswipe.js" crc="404375771" ref="index"/>
     <file name="jquery.watch.js" crc="104486786" ref="index:обо-мне:резюме"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:обо-мне:резюме"/>
     <file name="require.js" crc="244322403" ref="index:обо-мне:резюме"/>
-    <file name="webpro.js" crc="3848665353" ref="обо-мне"/>
     <file name="form_check.php" crc="158155501" ref="обо-мне"/>
     <file name="form_throttle.php" crc="3992970984" ref="обо-мне"/>
     <file name="form_process.php" crc="4078697226" ref="обо-мне"/>
     <file name="form-u1615.php" crc="184407240" ref="обо-мне"/>
   </folder>
   <folder name="images">
+    <file name="главная-favicon.ico" crc="251539713" ref="index"/>
     <file name="u403.png" crc="4161206105" ref="index:обо-мне:резюме"/>
     <file name="vizitka2-crop-u431.jpg" crc="3847732263" ref="index"/>
+    <file name="rustam jafarov_страница_01.jpg" crc="4097731510" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="rustam jafarov_страница_03.jpg" crc="529566994" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_04.jpg" crc="164645106" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_05.jpg" crc="403219977" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_06.jpg" crc="4265544186" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_07.jpg" crc="4093332658" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_08.jpg" crc="285671980" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_09.jpg" crc="3912654346" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_10.jpg" crc="4012426184" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_11.jpg" crc="4224830392" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_12.jpg" crc="4144404113" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_13.jpg" crc="4174303451" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_14.jpg" crc="458626738" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_15.jpg" crc="4044966305" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_16.jpg" crc="4126050755" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_17.jpg" crc="125872455" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_18.jpg" crc="4210470142" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_19.jpg" crc="143325778" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_20.jpg" crc="3983912255" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_21.jpg" crc="4129595134" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_22.jpg" crc="417097479" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_23.jpg" crc="4193385193" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_24.jpg" crc="4119384945" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_25.jpg" crc="230591409" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_26.jpg" crc="451107543" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_27.jpg" crc="378382492" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_28.jpg" crc="105643080" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_29.jpg" crc="4196836499" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_30.jpg" crc="4018208192" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_31.jpg" crc="3917399651" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_32.jpg" crc="3763258732" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_33.jpg" crc="471516493" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_34.jpg" crc="377250164" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_35.jpg" crc="193869471" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_36.jpg" crc="386902290" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_37.jpg" crc="4139379959" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_38.jpg" crc="98667015" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_39.jpg" crc="477356388" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_40.jpg" crc="4100294633" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_41.jpg" crc="358166660" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_42.jpg" crc="3857820225" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_43.jpg" crc="257346099" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_44.jpg" crc="451301463" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_45.jpg" crc="212323485" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_46.jpg" crc="315099467" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_47.jpg" crc="3952466431" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_48.jpg" crc="314691407" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_49.jpg" crc="4259694740" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_50.jpg" crc="3869992032" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_51.jpg" crc="3804006560" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_52.jpg" crc="4292714907" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_53.jpg" crc="431691788" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_54.jpg" crc="4104240228" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_55.jpg" crc="375770722" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_56.jpg" crc="371916462" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_57.jpg" crc="263493952" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_58.jpg" crc="269034594" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_59.jpg" crc="4149591000" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_60.jpg" crc="149098127" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_61.jpg" crc="3760903525" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_62.jpg" crc="139043017" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_63.jpg" crc="66093634" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_64.jpg" crc="4192047918" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_65.jpg" crc="466972188" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_66.jpg" crc="3890523105" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_67.jpg" crc="373364122" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_68.jpg" crc="4227736986" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_69.jpg" crc="278735015" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_70.jpg" crc="498765866" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_71.jpg" crc="4081704568" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_01354x222.jpg" crc="468965191" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_03354x222.jpg" crc="42416334" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_04354x222.jpg" crc="4072831536" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_05-crop-u3520.jpg" crc="175013453" ref="index"/>
+    <file name="rustam jafarov_страница_06354x222.jpg" crc="3784878910" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_07-crop-u3572.jpg" crc="4097272435" ref="index"/>
+    <file name="rustam jafarov_страница_08354x222.jpg" crc="3998002113" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_09295x222.jpg" crc="43432515" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_10354x222.jpg" crc="4218607594" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_11354x222.jpg" crc="4181749778" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_12354x222.jpg" crc="3809191287" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_13354x222.jpg" crc="526529369" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_14354x222.jpg" crc="4283588554" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_15354x222.jpg" crc="3882369266" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_16354x222.jpg" crc="479119184" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_17354x222.jpg" crc="52799496" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_18354x222.jpg" crc="162708495" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_19354x222.jpg" crc="36439847" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_20354x222.jpg" crc="4156124717" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_21354x222.jpg" crc="432298025" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_22354x222.jpg" crc="244344214" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_23354x222.jpg" crc="4058024589" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_24354x222.jpg" crc="3976590205" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_25354x222.jpg" crc="225856963" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_26354x222.jpg" crc="3940126745" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_27354x222.jpg" crc="79832456" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_28355x222.jpg" crc="3942397292" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_29354x222.jpg" crc="292325579" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_30295x227.jpg" crc="3930898309" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_31295x228.jpg" crc="370894057" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_32295x228.jpg" crc="4269845318" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_33295x228.jpg" crc="318928040" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_34295x227.jpg" crc="4136500591" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_35295x228.jpg" crc="14379486" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_36295x229.jpg" crc="4247355358" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_37354x222.jpg" crc="254569207" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_38295x222.jpg" crc="3774614395" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_39296x222.jpg" crc="4065866963" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_40296x222.jpg" crc="4221647684" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_41296x222.jpg" crc="3824804861" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_42296x222.jpg" crc="225525702" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_43296x222.jpg" crc="230835568" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_44296x222.jpg" crc="473326420" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_45296x222.jpg" crc="447853767" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_46296x222.jpg" crc="4079085256" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_47295x222.jpg" crc="133338678" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_48354x222.jpg" crc="4244854768" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_49313x222.jpg" crc="409563231" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_50313x222.jpg" crc="4264994058" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_51313x222.jpg" crc="363382447" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_52313x222.jpg" crc="369968961" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_53313x222.jpg" crc="130147878" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_54313x222.jpg" crc="4239742415" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_55313x222.jpg" crc="4117360698" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_56313x222.jpg" crc="3980225096" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_57310x222.jpg" crc="117242203" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_58354x222.jpg" crc="168713339" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_59354x222.jpg" crc="233528112" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_60354x222.jpg" crc="3991296418" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_61354x222.jpg" crc="160135730" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_62354x222.jpg" crc="4183145206" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_63354x222.jpg" crc="155742983" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_64355x222.jpg" crc="3934495580" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_65354x222.jpg" crc="3821456084" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_66354x222.jpg" crc="76521612" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_67354x222.jpg" crc="3966044483" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_68354x222.jpg" crc="4099289515" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_69354x222.jpg" crc="3976469045" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_70354x222.jpg" crc="4194647235" seo="true" ref="index"/>
+    <file name="rustam jafarov_страница_71354x222.jpg" crc="308455137" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="u412.png" crc="4161206105" ref="index:обо-мне:резюме"/>
-    <file name="my photo2-crop-u2116.jpg" crc="3815708196" ref="резюме"/>
-    <file name="главная-favicon.ico" crc="251539713" ref="index"/>
     <file name="обо-мне-favicon.ico" crc="251539713" ref="обо-мне"/>
     <file name="резюме-favicon.ico" crc="251539713" ref="резюме"/>
+    <file name="my photo2-crop-u2116.jpg" crc="3815708196" ref="резюме"/>
   </folder>
-  <file name="index.html" crc="399863899" seo="true" mt="1536957224285" redirect="true"/>
-  <file name="обо-мне.html" crc="225189149" seo="true" mt="1536957235983" redirect="true"/>
-  <file name="резюме.html" crc="3879011533" seo="true" mt="1536957247106" redirect="true"/>
+  <file name="index.html" crc="276994531" seo="true" mt="1537900358660" redirect="true"/>
+  <file name="обо-мне.html" crc="4204501433" seo="true" mt="1537900794530" redirect="true"/>
+  <file name="резюме.html" crc="507170644" seo="true" mt="1537900734874" redirect="true"/>
 </manifest>
